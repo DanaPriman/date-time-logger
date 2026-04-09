@@ -1,6 +1,6 @@
 {
   "name": "@dana180597/date-time-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple date/time utility",
   "main": "index.js",
   "license": "MIT",
