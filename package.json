@@ -1,0 +1,16 @@
+{
+  "name": "date-time-logger",
+  "version": "1.0.0",
+  "description": "A simple date/time utility",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "date",
+    "time",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danapriman/date-time-logger.git"
+  }
+}
