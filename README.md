@@ -1,17 +1,17 @@
-# date-time-logger
+# @dana180597/date-time-logger
 
 A simple date/time utility for Node.js.
 
 ## Installation
 
 ```bash
-npm install date-time-logger
+npm install @dana180597/date-time-logger
 ```
 
 ## Usage
 
 ```javascript
-const { now, ping } = require('date-time-logger');
+const { now, ping } = require('@dana180597/date-time-logger');
 
 // Get the current ISO timestamp
 console.log(now());
